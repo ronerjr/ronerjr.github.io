@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Work history
 
-You can use the [editor on GitHub](https://github.com/ronerjr/ronerjr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can see more about me on my [LinkedIn](https://www.linkedin.com/in/ronerjr)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Senior Fullstack Developer
+#### Venturus - from 2020-05 to now 
+I've been working as a fullstack developer providing solutions for a manufacturer using NodeJS and ReactJS.
 
-### Markdown
+### System Development Specialist
+#### Daitan - from 2018-06 to 2020-04 
+I've been working as a developer / team leader developing bots that integrates with developer tools like GitLab, GitHub and Atlassian using Spring Boot, MongoDB and ReactJS. I'm present in all the steps of the development workflow since of tasks definitions until the project delivery with direct contact with the final customer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fullstack Developer
+#### Venturus - from 2017-05 to 2018-06 
+Working as developer / team leader developing projects using mainly Angular2+ and Java for a multinational company of telecommunication. Working on innovation team in paralallel suggesting some internal projects to improve our capacity in other tecnologies and architectures.
 
-```markdown
-Syntax highlighted code block
+### Fullstack Developer - Consultant
+#### Cubo Tecnologia - from 2016-12 to 2017-05 
+Working with a multidisciplinary team remaking and improving the current software using Scala, as a proxy to a .Net backend application that contains all the business rules and provides us REST services with them. I've been working with Scala  Java and Angular, Java with Velocity to attend a big group of health area.
 
-# Header 1
-## Header 2
-### Header 3
+### Fullstack Developer - Consultant
+#### Art IT Intelligent Technology - from 2016-09 to 2016-12 
+Refactoring a part of a sofware that controls the tasks of a help desk. This system was modeled under big data concepts using ElasticSearch, some parts in Scala and Java, but my actuation in this project was mainly on AngularJS decoupling the existant code to make this code maintanable.
 
-- Bulleted
-- List
+### Senior Java Developer - Consultant
+#### Thomson Reuters - from 2016-02 to 2016-09 
+Working with development of the principal company's product, OneSource Global Trade. For this development we use a specific framework, includind a Eclipse Plugin, made by Thomson Reuters called Taxit that uses JavaServer Faces, Spring, JPA, and some other frameworks. We used Jira to administrate backlog and tasks from Sprint and Agile pratices of development.
 
-1. Numbered
-2. List
+### Java Developer
+#### Verity Consulting - from 2015-06 to 2016-01 
+Working in a software factory developing a solution for life insurance company using Java, Spring Framework, Angular JS and Oracle. I developed an framework to convert text files in a system entity in this project.
 
-**Bold** and _Italic_ and `Code` text
+### Java Developer
+#### PST Eletronics - from 2015-02 to 2015-06 
+Working on an electronic device factory, where the work of the IT team was to make solutions for different internal departments. I was working in a ecommerce project developed in Java using JSF with an integration with SAP system.1
 
-[Link](url) and ![Image](src)
-```
+### Java Developer
+#### SIDI - Samsung Instituto de Desenvolvimento para Informática - from 2013-08 to 2015-01 
+Working at research institute of Samsung creating solutions to printer market, focusing the new printer models with java embedded. These new printers could run application using Jetty as container, Spring and OSGi, all this things in a framework called XOA created by Samsung. I participated in all steps of Project, collecting requirements with the product owner until the delivery to homologation, including documentation. My team started to use Agile pratices of development at company.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Java Developer
+#### CPqD Institute - from 2012-08 to 2013-08 
+Working at CPqD I had the opportunity to work in two projects focusing on Billing solutions to Telecom Companies. One of them I used Java, JSF2, Hibernate, JPA2 and in the other project Java, Struts 2, iBatis.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ronerjr/ronerjr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Intern
+#### CI&T - from 2012-02 to 2012-08 
+Working as application support, developing new features and maintaning the system using PLSQL and PLWEB for a fast food company.
