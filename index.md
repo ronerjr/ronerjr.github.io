@@ -45,3 +45,10 @@ Working at CPqD I had the opportunity to work in two projects focusing on Billin
 ### Intern
 #### [CI&T](https://br.ciandt.com/) - from 2012-02 to 2012-08 
 Working as application support, developing new features and maintaning the system using PLSQL and PLWEB for a fast food company.
+
+## Education
+### M.B.A - Software Engineering - Service-Oriented Architecture
+#### Metrocamp College
+
+### System of Information Barchelor
+#### Policamp College
